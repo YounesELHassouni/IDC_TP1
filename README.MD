@@ -19,10 +19,6 @@
 <p>Implémentation de l'interface IMetier en utilisant le couplage faible.</p>
 <img style="max-width: 750px;padding: 1em;border: 2px dotted rgb(0, 162, 255);border-radius: 30px;" src="Captures/MetierImpl.png">
 
-<h4 style="padding-left: 2em;" >4. Implémentation de IMetier avec Couplage Faible</h4>
-<p>Implémentation de l'interface IMetier en utilisant le couplage faible.</p>
-<img style="max-width: 750px;padding: 1em;border: 2px dotted rgb(0, 162, 255);border-radius: 30px;" src="Captures/img_4.png">
-
 <h4 style="padding-left: 2em;" >5. Implémentation d'Extension de l'Interface Dao</h4>
 <p>Creation de class DaoImpl2 (Capteur).</p>
 <img style="max-width: 750px;padding: 1em;border: 2px dotted rgb(0, 162, 255);border-radius: 30px;" src="Captures/DaoImpl2.png">
